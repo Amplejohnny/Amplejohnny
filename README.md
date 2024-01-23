@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React.js as a framework
 - 💞️ I’m looking to collaborate on any project that involves web app development.
 - 📫 How to reach me on X (formerly Twitter) and LinkedIn. check my bio for the links.
-- 😄 Pronouns: Leave that to you to find out yourself.
+- 😄 Pronouns: Leave that for you to find out.
 - ⚡ Fun fact: I'm someone who likes to crack song lyrics when I'm less busy.
 
 <!---
