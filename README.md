@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Amplejohnny
 - 👀 I’m interested in self-development. I'm a full-stack developer that is heavy on backend technologies
-- 🌱 I’m currently learning React.js as a frontend framework
 - 💞️ I’m looking to collaborate on any project that involves web app development.
 - 📫 How to reach me on X (formerly Twitter) and LinkedIn. check my bio for the links.
 - 😄 Pronouns: He/Him.
